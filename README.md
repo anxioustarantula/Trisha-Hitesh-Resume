@@ -18,15 +18,7 @@ Developed a MATLAB-based model for simulating the spread of cholera using the Su
 
 ---
 
-## **3. Computational Solutions for Singular Integral Equations**  
-**Description:**  
-Applied deep learning techniques to solve Fredholm and Cauchy-type singular integral equations, improving upon traditional numerical methods.  
-
-**Technologies:** Python, TensorFlow/PyTorch  
-
----
-
-## **4. Coreference Resolution with T5 (NLP)**  
+## **3. Coreference Resolution with T5 (NLP)**  
 **Description:**  
 Fine-tuned a T5 transformer model for coreference resolution, improving entity tracking in textual data.  
 
